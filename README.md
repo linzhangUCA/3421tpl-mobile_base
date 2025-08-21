@@ -29,7 +29,7 @@ Edit [Student Work](#student-work) section to upload your homework.
 - [Mobile base assembly guide](https://github.com/linzhangUCA/3421example-mobile_base_assembly)
 - [Github documentation syntax](https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
 
-## Student Work
+## :point_down:Student Work
 
 ### Proof of Completeness
 - **Front view**
