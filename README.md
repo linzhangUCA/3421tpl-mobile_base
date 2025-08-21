@@ -8,7 +8,7 @@
 ## Tasks and Requirements
 Edit [Student Work](#student-work) section to upload your homework.
 - Upload pictures to [images](/images/) directory to demonstrate a completed mobile base.
-   - **(25%)** Upload a [front_view.png](/images/front_view.png) picture of your robot.
+   - **(25%)** Upload a [front_view.png](/images/front_view.png) picture of your mobile base.
    - **(25%)** Upload a [side_view.png](/images/side_view.png) picture.
    - **(25%)** Upload a [top_view.png](/images/top_view.png) picture.
  > [!IMPORTANT]
