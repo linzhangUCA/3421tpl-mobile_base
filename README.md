@@ -6,7 +6,7 @@
 - Get familiar with Github usage.
 
 ## Tasks and Requirements
-Edit [](#student-work) section to upload your homework.
+Edit [Student Work](#student-work) section to upload your homework.
 - Upload pictures to [images](/images/) directory to demonstrate a completed mobile base.
    - **(25%)** Upload a [front_view.png](/images/front_view.png) picture of your robot.
    - **(25%)** Upload a [side_view.png](/images/side_view.png) picture.
