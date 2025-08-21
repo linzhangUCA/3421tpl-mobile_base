@@ -51,6 +51,6 @@ Edit [Student Work](#student-work) section to upload your homework.
 - Was the mobile base going straight on the "rail"? Or was it leaning left, leaning right or having some other behaviors?
 > Please fill your answer here.
 
-- What cause the robot having above observed behavior in terms of **wheel speed**?
+- What cause the mobile base having above observed behavior in terms of **wheel speed**?
 > Please fill your answer here.
 
