@@ -15,7 +15,10 @@ Edit [Student Work](#student-work) section to upload your homework.
  > Accepted image formats are `.jpg`, `.svg`, `.png`.
  
  > [!IMPORTANT]
- > Edit file names in the [Proof of Completeness](#proof-of-completeness) section below so that the pictures can be previewed in the `README`.
+ > Edit file names in the [Proof of Completeness](#proof-of-completeness) section below so that the pictures can be previewed in this document.
+
+ > [!NOTE]
+ > You may want to resize the pictures to make them look better in the document.
 
 - **(25%)** Let the mobile base running forward on the "rail" in classroom.
    Observe closely and answer the questions in the [**Analysis**](#analysis) section below.
