@@ -33,12 +33,15 @@ Edit [Student Work](#student-work) section to upload your homework.
 
 ### Proof of Completeness
 - **Front view**
+- 
 ![front_view.png](/images/front_view.png)
 
 - **Side view**
+- 
 ![side_view.png](/images/side_view.png)
 
 - **Top view**
+- 
 ![top_view.png](/images/top_view.png)
 
 ### Analysis
