@@ -1,61 +1,41 @@
 # Makeshift Assembly
 
-## Overview
+## 1. Overview
 Congratulations!
 You have successfully accepted your first assignment in Robotics 1.
-Let's finish the jobs as required below to redeem your first credit.
+Please follow the [Requirements](#2-requirements) to redeem your first credit.
 
-## Objectives
-- Get a mobile base ready for later robot development.
-- Practice basic robotic/engineering skills (taping, drilling, reading, assembling, etc.)
-- Get familiar with Github usage.
+In this assignment, you will
+- Get your hands dirty and assemble a rudimentary mobile base.
+- Get familiar with Github and Classroom 50 as they make up our project management system. 
+- Practice documenting a engineering project's progress using Markdown.
+- Practice engineering reading skills by fulfill the requirements following technical guides.
+- (Optional) Seek help from AI.
 
-## Tasks and Requirements
-Edit [Student Work](#student-work) section to upload your homework.
-- Upload pictures to [images](/images/) directory to demonstrate a completed mobile base.
-   - **(25%)** Upload a [front_view.png](/images/front_view.png) picture of your mobile base.
-   - **(25%)** Upload a [side_view.png](/images/side_view.png) picture.
-   - **(25%)** Upload a [top_view.png](/images/top_view.png) picture.
- > [!IMPORTANT]
- > Accepted image formats are `.jpg`, `.svg`, `.png`.
- 
- > [!IMPORTANT]
- > Edit file names in the [Proof of Completeness](#proof-of-completeness) section below so that the pictures can be previewed in this document.
+## 2. Requirements
+Please assemble the mobile base and finish the rail test before continue. 
+> [!CAUTION]
+> Assignment will not be graded if "rail" test without instructor's witness.
 
- > [!NOTE]
- > You may want to resize the pictures to make them look better in the document.
+### 2.1. Show off the mobile base 
+- Upload four pictures of your mobile base from different angles.
+  1. A Portrait (you find the best angle).
+  2. A top view picture (have the camera aiming **right** on top of the mobile base).
+  3. A bottom view picture (camera angle **right** from the bottom).
+  4. A side view picture (either from left or right).
+- Each picture has to be in the resolution of 600 pixels by 800 pixels if the camera was vertical, or 800 pixels by 600 pixels if the camera was horizontal. 
+- Display these pictures in [README](/README.md)
 
-- **(25%)** Let the mobile base running forward on the "rail" in classroom.
-   Observe closely and answer the questions in the [**Analysis**](#analysis) section below.
- > [!CAUTION]
- > Answers will not be graded if the base failed to run on the "rail" with instructor's witness.
- > Instructor will designate a trial for student to analyze.
-    
-- Please acknowledge AI's contributions according to the policies in the [syllabus](https://linzhanguca.github.io/_docs/robotics1-2025/syllabus.pdf).
+> [!TIP]
+> Upload pictures with same names as the dummy files in [images](/images/) directory will save you quite amount of time.
 
-## Study Resources
-- [Mobile base assembly guide](https://github.com/linzhangUCA/3421example-mobile_base_assembly)
+### 2.2. Log the rail test result
+Observe closely and fill the result of your rail test in the [README](/README.md).
+
+### 2.3. Analyze the result
+Please answer the questions in [README](/README.md) based on the observed result of your rail test.
+
+### 2.4. Please acknowledge AI's contributions.
+
+## 3. Reading Resources
 - [Github documentation syntax](https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
-
-## :point_down:Student Work
-
-### Proof of Completeness
-- **Front view**
-  
-![front_view.png](/images/front_view.png)
-
-- **Side view**
-  
-![side_view.png](/images/side_view.png)
-
-- **Top view**
-  
-![top_view.png](/images/top_view.png)
-
-### Analysis
-- Was the mobile base going straight on the "rail"? Or was it leaning left, leaning right or having some other behaviors?
-> Please fill your answer here.
-
-- What cause the mobile base having above observed behavior in terms of **wheel speed**?
-> Please fill your answer here.
-
