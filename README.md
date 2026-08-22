@@ -16,11 +16,10 @@
 ![top_view.png](/images/top_view.png)
 
 ## Rail Test Observation
-
-## Analysis
 - Was the mobile base going straight on the "rail"? Or was it leaning left, leaning right or having some other behaviors?
 > Please fill your answer here.
 
+## Analysis
 - What cause the mobile base having above observed behavior in terms of **wheel speed**?
 > Please fill your answer here.
 
