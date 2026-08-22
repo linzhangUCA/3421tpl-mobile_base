@@ -7,35 +7,40 @@ Please follow the [Requirements](#2-requirements) to redeem your first credit.
 
 In this assignment, you will
 - Get your hands dirty and assemble a rudimentary mobile base.
-- Get familiar with Github and Classroom 50 as they make up our project management system. 
-- Practice documenting a engineering project's progress using Markdown.
-- Practice engineering reading skills by fulfill the requirements following technical guides.
-- (Optional) Seek help from AI.
+- Familiarize yourself with GitHub and Classroom 50 for project management. 
+- Document engineering progress using Markdown.
+- Practice engineering reading skills by following technical specifications.
+- (Optional) Responsibly leverage AI tools to assist with troubleshooting or formatting.
 
 ## 2. Requirements
-Please assemble the mobile base and finish the rail test before continue. 
+Complete the mobile base assembly and perform the rail test before proceeding with your documentation.
 > [!CAUTION]
-> Assignment will not be graded if "rail" test without instructor's witness.
+> Instructor Verification Required: Rail tests performed without an instructor present as a witness will not be graded.
 
 ### 2.1. Show off the mobile base 
-- Upload four pictures of your mobile base from different angles.
-  1. A Portrait (you find the best angle).
-  2. A top view picture (have the camera aiming **right** on top of the mobile base).
-  3. A bottom view picture (camera angle **right** from the bottom).
-  4. A side view picture (either from left or right).
-- Each picture has to be in the resolution of 600 pixels by 800 pixels if the camera was vertical, or 800 pixels by 600 pixels if the camera was horizontal. 
-- Display these pictures in [README](/README.md)
+- Upload four distinct photographs of your mobile base.
+  1. Portrait / Feature Shot: Choose the angle that best highlights your build.
+  2. Top View: Camera positioned directly overhead, facing straight down.
+  3. Bottom View: Camera positioned directly beneath, facing straight up.
+  4. Side View: A clear profile shot from either the left or right side.
+- Images must be scaled to 600 × 800 pixels (vertical orientation) or 800 × 600 pixels (horizontal orientation).
+- Render all four images properly in [README](/README.md)
 
 > [!TIP]
-> Upload pictures with same names as the dummy files in [images](/images/) directory will save you quite amount of time.
+> Replacing the dummy files in the [images](/images/) directory using the same filenames will automatically update your [README](README.md) image links and save you time.
 
 ### 2.2. Log the rail test result
-Observe closely and fill the result of your rail test in the [README](/README.md).
+Observe closely and record your observations from the rail test directly in the designated section of [README](/README.md).
 
 ### 2.3. Analyze the result
-Please answer the questions in [README](/README.md) based on the observed result of your rail test.
+Answer all post-test analysis questions in [README](/README.md) based on the observed result of your rail test.
 
 ### 2.4. Please acknowledge AI's contributions.
+If you used generative AI tools during this assignment (e.g., for Markdown formatting or troubleshooting):
+- Add an AI Acknowledgment section at the bottom of your README.md.
+- State which tool was used and briefly describe how it assisted you.
+- If no AI tools were used, explicitly state: "No AI tools were utilized for this assignment."
 
 ## 3. Reading Resources
 - [Github documentation syntax](https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
+- [Engineering drawing views reference](https://engineering.stackexchange.com/questions/15885/top-view-front-view-left-view-and-right-view-help)
