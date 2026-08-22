@@ -15,7 +15,7 @@
   
 ![top_view.png](/images/top_view.png)
 
-## Rail Test Record
+## Rail Test Observation
 
 ## Analysis
 - Was the mobile base going straight on the "rail"? Or was it leaning left, leaning right or having some other behaviors?
