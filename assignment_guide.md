@@ -21,7 +21,7 @@ Complete the mobile base assembly and perform the rail test before proceeding wi
 - (40%) Upload four distinct photographs of your mobile base.
   1. (10%) Portrait / Feature Shot: Choose the angle that best highlights your build.
   2. (10%) Top View: Camera positioned directly overhead, facing straight down.
-  3. (10%) Bottom View: Camera positioned directly beneath, facing straight up.
+  3. (10%) Front View: Camera positioned directly in front, facing straight to the head.
   4. (10%) Side View: A clear profile shot from either the left or right side.
 - (10%) Images must be scaled to 600 × 800 pixels (vertical orientation) or 800 × 600 pixels (horizontal orientation).
 - (10%) Render all four images properly in [README](/README.md)
